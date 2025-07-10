@@ -9,4 +9,5 @@ pandas
 openai
 chromadb
 faiss-cpu
-streamlit 
+streamlit
+python-dotenv 
